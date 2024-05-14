@@ -15,7 +15,7 @@
     "git"
   ],
   "author": "zhengkun",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Zheng-Kun/git-commit-message/issues"
   },
