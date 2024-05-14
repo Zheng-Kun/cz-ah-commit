@@ -63,7 +63,7 @@
     "emoji": "🏷️",
     "code": ":label:",
     "description": "Adding or updating types (Flow, TypeScript).",
-    "name": "label"
+    "name": "types"
   },
   {
     "emoji": "💬",
