@@ -60,6 +60,12 @@
     "name": "typo"
   },
   {
+    "emoji": "🏷️",
+    "code": ":label:",
+    "description": "Adding or updating types (Flow, TypeScript).",
+    "name": "label"
+  },
+  {
     "emoji": "💬",
     "code": ":speech_balloon:",
     "description": "Add or update text and literals.",
