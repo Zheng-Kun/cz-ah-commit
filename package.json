@@ -32,5 +32,8 @@
     "fuse.js": "^6.4.1",
     "inquirer-autocomplete-prompt": "^1.1.0",
     "word-wrap": "^1.2.3"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
